@@ -1,0 +1,30 @@
+projects to work on:
+ good day
+ world
+ top secret
+ scroll region
+ dashboard
+
+
+AWS connection info:
+root user email: lovemeknot285@gmail.com
+password: Alba...!1
+
+root user access key:
+Access Key ID:
+AKIAU2LMVQF477SBLGFD
+Secret Access Key:
+4dIE7hGhivGwTQu+wsnF1frz015UjvJXlbpy1bOQ
+
+I am users:
+Fred - programatic access - admin
+Access key id:
+AKIAU2LMVQF4ZC6G2BVK
+Secret access key:
+UV1ZkLgTPEr5zCWsf0gM2K4CgdSYQxUFP7BsW4FC
+
+Sally - interactive login - admin
+password: Alba...!1
+login link: https://331477254521.signin.aws.amazon.com/console
+
+jp.o
